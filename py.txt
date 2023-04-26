@@ -1,0 +1,17 @@
+linguagem natural vs programação
+ -> o computador necessita de uma lista de comandos para entender
+o que precisa ser realizado, por outro lado os humanos conseguem 
+entender sem nenhuma explicação
+ -> precisamos de uma ponte para ligar a linguagem da máquina com
+a do computador
+ -> linguagem de alto nível: é semelhante a nossa lingua nativa, permite
+que expressemos comando complexos ao computador
+ -> programas desenvolvidos em linguagem de alto nível pode ser descrito
+como código fonte, e os arquivos presente nele de arquivo-fonte
+ -> para a execução do programa, deverá seguir algumas regras: precisa ser 
+desenvolvido em um script reconhecível, deve ter conhecimento de cada regra de
+cada linguagem, o programa precisa fazer sentido
+ -> há duas maneiras de transformar o programa desenvolvido em linguagem da máquina:
+compilação = transforma o código desenvolvido para a linguagem da máquina (binário ou assembly) - está
+tradução pode ocorrrer quantas vezes quiser
+interpretação = interpreta o código através de interpretador toda vez que for executado
