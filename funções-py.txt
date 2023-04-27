@@ -1,0 +1,4 @@
+ -print é uma função
+ -usamos funções para causar algum efeieto (enviar algo para o terminal - print), avaliar um valor e retornar um valor através de funções
+ -de onde podem vir: do própio python(print), de módulos (instalações) ou make by yourself
+ -o nome da função deve ter significado
