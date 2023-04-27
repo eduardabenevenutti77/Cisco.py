@@ -1,1 +1,1 @@
-*curso desenvolvido pela Cisco Academy sobre introdução a programação em linguagem python* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" height="18"/>
+*curso desenvolvido pela Cisco Academy sobre introdução a programação em linguagem python* 
